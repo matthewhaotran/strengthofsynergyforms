@@ -59,9 +59,16 @@
 .signhere {
     height: 6rem;
     font-size: 3rem;
+    background-color: lightgrey;
+    border: 3px solid darkgrey
 }
 
 .signhere p {
     display: block;
     margin: auto auto auto auto;
+
+}
+
+.acknowledge {
+    margin-left: 25px;
 }
