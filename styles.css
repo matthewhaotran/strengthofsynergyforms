@@ -42,7 +42,7 @@
     margin-top: 20px;
     background-color: white;
     box-shadow: #254C58 1px 0px;
-    border: #3C7D91 5px double;
+    border: #99e265 5px double;
     padding: 10px 10 x 10px 10px;
     overflow-y: scroll;
     max-height: 433px;
@@ -82,4 +82,9 @@
 
 p.form {
     font-size: 11pt;
+}
+
+.btn, 
+.labeltext {
+    background-color: #99e265;
 }
